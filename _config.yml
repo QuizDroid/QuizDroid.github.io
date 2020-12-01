@@ -4,8 +4,8 @@
 permalink:           pretty
 
 # Setup
-title:               QuizDroid
-tagline:             'Quiz Bowl Content and Resources'
+title:               Quiz Bowl
+tagline:             'Quiz Bowl Stuff'
 description:         'Download <a href="https://play.google.com/store/apps/details?id=io.github.arjunpanickssery.quizdroid&hl=en_US">QuizDroid</a> for your Android device.'
 url:                 http://quizdroid.github.io
 baseurl:             ''
