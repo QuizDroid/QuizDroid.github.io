@@ -24,6 +24,6 @@ buttonShort.addEventListener("click", function() {playAudio()});
 body.appendChild(buttonShort);
 
 function playAudio() {
-    let audio = new Audio('buzzer_sound.mp3');
+    let audio = new Audio('https://quizbowl.buzz/buzzer_sound.mp3');
     audio.play();
 }
